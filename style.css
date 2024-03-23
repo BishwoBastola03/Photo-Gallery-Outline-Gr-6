@@ -1,0 +1,101 @@
+/* 
+Mission 2: Set the background image to "background.png"
+Mission 3: Make the cards further apart (L25)
+Hint: There are two CSS properties to add space: margin and padding
+Mission 4: Make the insides of the cards bigger (L29)
+Mission 5: Make the card shadows aquamarine (L35)
+Mission 6: Make the font color in the cards yellow (L39)
+Mission 7: Make the background of the card the RGB value (18,158,177) (L43)
+Mission 8: Make the border of the cards rounded (L50)
+Bonus A: Continue in "index.html"
+*/
+
+body {
+  background-color: rgb(0, 0, 0);
+  /* Enter code here (2) */
+  
+  /*************************/
+  padding-top: 100px;
+}
+
+.cool {
+  width: 500px;
+  
+  /* Enter code here (3) */
+  
+  /*************************/
+  
+  /* Enter code here (4) */
+  
+  /*************************/
+
+  text-align: center;
+  
+  /* Enter code here (5) */
+  
+  /*************************/
+  
+  /* Enter code here (6) */
+  
+  /*************************/
+
+  /* Enter code here (7) */
+  
+  /*************************/
+  
+  border-style: solid;
+
+  /* Enter code here (8) */
+  
+  /*************************/
+
+}
+
+.rounded {
+  border-radius: 100%;
+}
+
+.flex-container {
+  display: flex;
+}
+
+.card {
+  width: 500px;
+
+  /* Enter code here (3) */
+
+  /*************************/
+
+  /* Enter code here (4) */
+
+  /*************************/
+
+  text-align: center;
+
+  /* Enter code here (5) */
+
+  /*************************/
+
+  /* Enter code here (6) */
+
+  /*************************/
+
+  /* Enter code here (7) */
+
+  /*************************/
+
+  border-style: solid;
+
+  /* Enter code here (8) */
+
+  /*************************/
+
+}
+
+.rounded {
+  border-radius: 100%;
+}
+
+.flex-container {
+  display: flex;
+}
